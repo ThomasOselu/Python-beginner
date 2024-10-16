@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea21fde8-ab08-4c54-a2fe-9b470a866096" name="Changes" comment="arithmetic operators">
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+    <list default="true" id="ea21fde8-ab08-4c54-a2fe-9b470a866096" name="Changes" comment="conditional if operator">
+      <change afterPath="$PROJECT_DIR$/To-do.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.calculator.executor": "Run",
     "Python.clock.executor": "Run",
     "Python.hypotenus.executor": "Run",
     "Python.main.executor": "Run",
@@ -94,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1728898459476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="conditional if operator">
+      <option name="closed" value="true" />
+      <created>1728911393058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728911393059</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup" />
     <MESSAGE value="clock with python" />
     <MESSAGE value="arithmetic operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="arithmetic operators" />
+    <MESSAGE value="conditional if operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional if operator" />
   </component>
 </project>

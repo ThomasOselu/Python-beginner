@@ -1,6 +1,5 @@
 # Simple To-Do List Application
 
-# List to store tasks
 tasks = []
 
 # Function to display the tasks
